@@ -18,7 +18,7 @@ JetLinks 基于Java8,Spring Boot 2.x,WebFlux,Netty,Vert.x,Reactor等开发,
 
 ## 核心特性
 
-**开放源代码**
+**开放源代码** 1
 
 全部源代码开放,可自由拓展功能,不再受制于人.前后端分离,接口全开放.
 
